@@ -2,7 +2,7 @@
 
 This project is for our IEEE VR 2016 paper.
 
-- Hanseul Jun and Gunhee Kim. A Calibration Method for Optical See-through Head-mounted Displays with a Depth Camera. In IEEE VR 2016.
+- Hanseul Jun and Gunhee Kim. A Calibration Method for Optical See-through Head-mounted Displays with a Depth Camera. In IEEE VR 2016 [[pdf](https://github.com/hanseuljun/OST-HMD-Calibration/blob/master/vr2016_osthmdcalib.pdf)].
 
 ## Reference
 
