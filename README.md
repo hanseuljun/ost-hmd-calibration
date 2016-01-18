@@ -19,5 +19,5 @@ year      = 2016
 ```
 
 ## Authors
-[Hanseul Jun](http://vision.snu.ac.kr/hanseul) and [Gunhee Kim](http://www.cs.cmu.edu/~gunhee/), \
+[Hanseul Jun](http://vision.snu.ac.kr/hanseul) and [Gunhee Kim](http://www.cs.cmu.edu/~gunhee/), 
 [Vision and Learning Lab](http://vision.snu.ac.kr), Seoul National University
